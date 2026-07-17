@@ -16,7 +16,7 @@
 #### 2.1 Make 구현 
 
 - 구현 절차
-	- ![/working/make-t1/1-steps](</working/make-t1/1-steps>)
+	- ![/working/make-t1/1-steps.md](</working/make-t1/1-steps.md>)
 - Model Diagram
 	- ![/working/make-t1/D1-model diagram.jpg](</working/make-t1/D1-model diagram.jpg>)
 - Sample Mail Capture (Keyword 포함)
@@ -31,7 +31,7 @@
 #### 2.2 Zapier 구현
 
 - 구현절차
-	- [[/working/zapier-t1/1-steps]]
+	- ![/working/zapier-t1/1-steps.md](</working/zapier-t1/1-steps.md>)
 - Model 정의 
 	- Model 2개 작성 
 		- ![/working/zapier-t1/D1-ZAP workflow 정의 목록.jpg](</working/zapier-t1/D1-ZAP workflow 정의 목록.jpg>)
@@ -101,7 +101,7 @@
 ### 5. 실행 결과
 
 - 구현 절차
-	- ![/working/make-free/1-steps](</working/make-free/1-steps>)
+	- ![/working/make-free/1-steps.md](</working/make-free/1-steps.md>)
 
 - 입력 (Google Sheet)
 	- ![/working/make-free/D2-google sheet.jpg](</working/make-free/D2-google sheet.jpg>)
