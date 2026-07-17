@@ -16,37 +16,37 @@
 #### 2.1 Make 구현 
 
 - 구현 절차
-	- ![[working/make-t1/1-steps]]
+	- ![/working/make-t1/1-steps.md](</working/make-t1/1-steps.md>)
 - Model Diagram
-	- ![[working/make-t1/D1-model diagram.jpg]]
+	- ![/working/make-t1/D1-model diagram.jpg](</working/make-t1/D1-model diagram.jpg>)
 - Sample Mail Capture (Keyword 포함)
-	- ![[D2-gmail1.jpg]]
+	- ![/working/make-t1/D2-gmail1.jpg](</working/make-t1/D2-gmail1.jpg>)
 - Sample Mail Capture (Keyword 없음)
-	- ![[D3-gmail2.jpg]]
+	- ![/working/make-t1/D3-gmail2.jpg](</working/make-t1/D3-gmail2.jpg>)
 - Slack 결과 화면 (Keyword 포함)
-	- ![[D4-slack-channel1.jpg]]
+	- ![/working/make-t1/D4-slack-channel1.jpg](</working/make-t1/D4-slack-channel1.jpg>)
 - Slack 결과 화면 (Keyword 없음)
-	- ![[D5-slack-channel2.jpg]]
+	- ![/working/make-t1/D5-slack-channel2.jpg](</working/make-t1/D5-slack-channel2.jpg>)
 
 #### 2.2 Zapier 구현
 
 - 구현절차
-	- [[working/zapier-t1/1-steps]]
+	- ![/working/zapier-t1/1-steps.md](</working/zapier-t1/1-steps.md>)
 - Model 정의 
 	- Model 2개 작성 
-		- ![[D1-ZAP workflow 정의 목록.jpg]]
+		- ![/working/zapier-t1/D1-ZAP workflow 정의 목록.jpg](</working/zapier-t1/D1-ZAP workflow 정의 목록.jpg>)
 	- Model - With Keyword / Without Keyword
-		- ![[D2-ZAP flow 정의 1.jpg]]
-		- ![[D3-ZAP flow 정의 2.jpg]]
+		- ![/working/zapier-t1/D2-ZAP flow 정의 1.jpg](</working/zapier-t1/D2-ZAP flow 정의 1.jpg>)
+		- ![/working/zapier-t1/D3-ZAP flow 정의 2.jpg](</working/zapier-t1/D3-ZAP flow 정의 2.jpg>)
 - 입력 - Google Mail 
 	- 메일 내용은 Make와 동일한 것을 사용함.
-	- ![[D4-gmail 목록.jpg]]
+	- ![/working/zapier-t1/D4-gmail 목록.jpg](</working/zapier-t1/D4-gmail 목록.jpg>)
 - Zap 실행 History
-	- ![[D5-zap 실행 기록.jpg]]
+	- ![/working/zapier-t1/D5-zap 실행 기록.jpg](</working/zapier-t1/D5-zap 실행 기록.jpg>)
 - 실행 결과 - Google Sheet
-	- ![[D6-google sheet 내용.jpg]]
+	- ![/working/zapier-t1/D6-google sheet 내용.jpg](</working/zapier-t1/D6-google sheet 내용.jpg>)
 - 실행 결과 - Slack
-	- ![[D7-slack channel 기록.jpg]]
+	- ![/working/zapier-t1/D7-slack channel 기록.jpg](</working/zapier-t1/D7-slack channel 기록.jpg>)
 ### 3. Make/Zapier 비교
 
 | 비교 항목       | Make                                 | Zapier                                 |
@@ -96,21 +96,21 @@
 
 ### 4. 구현 화면
 - Model Diagram
-	- ![[working/make-free/D1-model diagram.jpg]]
+	- ![/working/make-free/D1-model diagram.jpg](</working/make-free/D1-model diagram.jpg>)
 
 ### 5. 실행 결과
 
 - 구현 절차
-	- ![[working/make-free/1-steps]]
+	- ![/working/make-free/1-steps.md](</working/make-free/1-steps.md>)
 
 - 입력 (Google Sheet)
-	- ![[D2-google sheet.jpg]]
+	- ![/working/make-free/D2-google sheet.jpg](</working/make-free/D2-google sheet.jpg>)
 
 - Slack Bad Review
-	- ![[D3-channel bad review.jpg]]
+	- ![/working/make-free/D3-channel bad review.jpg](</working/make-free/D3-channel bad review.jpg>)
 
 - Slack Good Review
-	- ![[D4-channel good review.jpg]]
+	- ![/working/make-free/D4-channel good review.jpg](</working/make-free/D4-channel good review.jpg>)
 
 ### 6. 보너스 반영 사항
 
